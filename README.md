@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7941E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Bareerah+Baig!;Software+Engineering+Student;Web+Developer+%7C+AI+%7C+ML+%7C+Data+Science" alt="Typing SVG">
+</p>
 
 <h1 align="center">Hey there, I'm Bareerah!</h1>
 <h3 align="center">Software Engineering Student | Web Dev 🌐 | Data & AI/ML Enthusiast 🤖</h3>
