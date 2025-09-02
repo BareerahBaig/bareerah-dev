@@ -1,5 +1,5 @@
-# bareerah-dev
-<h1 align="center">Hi there 👋, I'm Bareerah!</h1>
+# bareerahbaig
+<h1 align="center">Hey there, I'm Bareerah!</h1>
 <h3 align="center">Software Engineering Student | Web Dev 🌐 | Data & AI/ML Enthusiast 🤖</h3>
 
 ---
