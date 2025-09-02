@@ -1,4 +1,4 @@
-#  Welcome to Bareerah's Tech Hub!  
+#  My Github Profile!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
@@ -37,5 +37,4 @@ My goal is to design and develop impactful systems that merge **artificial intel
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
-![MongoDB](https://img.shields.io/b
-```
+![MongoDB](https://img.shields.io/b)
