@@ -1,6 +1,6 @@
 #  My Github Profile!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bareerah-baig)  
+<a href="https://www.linkedin.com/in/bareerah-baig"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/BareerahBaig)  
 
 Aoa, I am a **Software Engineering student** with a strong specialization in **AI, Full Stack MERN Development, and Data Science**.  
