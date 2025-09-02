@@ -2,48 +2,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7941E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Bareerah+Baig!;Software+Engineering+Student;Web+Developer+%7C+AI+%7C+ML+%7C+Data+Science" alt="Typing SVG">
 </p>
 
-<h1 align="center">Hey there, I'm Bareerah!</h1>
-<h3 align="center">Software Engineering Student | Web Dev 🌐 | Data & AI/ML Enthusiast 🤖</h3>
+<h3 align="center">Welcome to my GitHub profile! 👩‍💻</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 I'm currently studying **Software Engineering**  
-- 🌱 Always learning — right now deep into **full-stack dev**, **data science**, and **AI/ML**
-- 💻 I love building smart web apps that solve real-world problems
-- ⚡ Fun fact: My debugging skills improve when snacks are involved 🍕🐛
+- 🎓 Software Engineering Student
+- 🌐 Passionate about Full-Stack Web Dev
+- 🤖 Exploring Data Science and AI/ML
+- ☕ Debugging with snacks
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
-**Frontend**:  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-
-**Backend & DB**:  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Data & ML**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-
-**Tools**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+*Frontend:* HTML, CSS, JavaScript, React  
+*Backend:* Node.js, Express, MongoDB  
+*Data & ML:* Python, Pandas, scikit-learn, TensorFlow  
+*Tools:* Git, GitHub, VS Code  
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BareerahBaig&show_icons=true&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BareerahBaig&theme=dark" />
+</p>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
+---
+
+### 🔮 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
+- 🐙 [GitHub](https://github.com/BareerahBaig)  
+- 📫 Email: your.email@example.com
+
+---
+lain it, it’s bad.” – Cory House 😄
