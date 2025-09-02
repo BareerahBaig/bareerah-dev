@@ -41,15 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
